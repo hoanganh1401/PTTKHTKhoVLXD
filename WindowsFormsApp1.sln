@@ -11,6 +11,32 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
 		.gitignore = .gitignore
+		WindowsFormsApp1\BaoCao.cs = WindowsFormsApp1\BaoCao.cs
+		WindowsFormsApp1\BaoCaoNhapXuat.cs = WindowsFormsApp1\BaoCaoNhapXuat.cs
+		WindowsFormsApp1\BaoCaoTaiChinh.cs = WindowsFormsApp1\BaoCaoTaiChinh.cs
+		WindowsFormsApp1\BaoCaoTonKho.cs = WindowsFormsApp1\BaoCaoTonKho.cs
+		WindowsFormsApp1\BienBanKiemKe.cs = WindowsFormsApp1\BienBanKiemKe.cs
+		WindowsFormsApp1\ChiTietBaoCaoNhapXuat.cs = WindowsFormsApp1\ChiTietBaoCaoNhapXuat.cs
+		WindowsFormsApp1\ChiTietBaoCaoTaiChinh.cs = WindowsFormsApp1\ChiTietBaoCaoTaiChinh.cs
+		WindowsFormsApp1\ChiTietBaoCaoTonKho.cs = WindowsFormsApp1\ChiTietBaoCaoTonKho.cs
+		WindowsFormsApp1\ChiTietBienBanKiemKe.cs = WindowsFormsApp1\ChiTietBienBanKiemKe.cs
+		WindowsFormsApp1\ChiTietHoaDon.cs = WindowsFormsApp1\ChiTietHoaDon.cs
+		WindowsFormsApp1\ChiTietKiemKe.cs = WindowsFormsApp1\ChiTietKiemKe.cs
+		WindowsFormsApp1\ChiTietPhieuNhap.cs = WindowsFormsApp1\ChiTietPhieuNhap.cs
+		WindowsFormsApp1\ChiTietPhieuXuat.cs = WindowsFormsApp1\ChiTietPhieuXuat.cs
+		WindowsFormsApp1\ChiTietTheKho.cs = WindowsFormsApp1\ChiTietTheKho.cs
+		WindowsFormsApp1\DoiTac.cs = WindowsFormsApp1\DoiTac.cs
+		WindowsFormsApp1\GiamDoc.cs = WindowsFormsApp1\GiamDoc.cs
+		WindowsFormsApp1\HoaDon.cs = WindowsFormsApp1\HoaDon.cs
+		WindowsFormsApp1\KeToanKho.cs = WindowsFormsApp1\KeToanKho.cs
+		WindowsFormsApp1\NguoiDung.cs = WindowsFormsApp1\NguoiDung.cs
+		WindowsFormsApp1\PhieuKiemKe.cs = WindowsFormsApp1\PhieuKiemKe.cs
+		WindowsFormsApp1\PhieuNhapKho.cs = WindowsFormsApp1\PhieuNhapKho.cs
+		WindowsFormsApp1\PhieuXuatKho.cs = WindowsFormsApp1\PhieuXuatKho.cs
+		WindowsFormsApp1\TheKho.cs = WindowsFormsApp1\TheKho.cs
+		WindowsFormsApp1\ThongBao.cs = WindowsFormsApp1\ThongBao.cs
+		WindowsFormsApp1\ThuKho.cs = WindowsFormsApp1\ThuKho.cs
+		WindowsFormsApp1\VatLieu.cs = WindowsFormsApp1\VatLieu.cs
 	EndProjectSection
 EndProject
 Global
