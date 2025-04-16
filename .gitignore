@@ -1,0 +1,26 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Visual Studio
+.vs/
+
+# NuGet
+*.nupkg
+packages/
+
+# Others
+*.vspscc
+*.vssscc
